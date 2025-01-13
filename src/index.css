@@ -43,8 +43,7 @@ nav a:active {
   border-bottom: 2px solid tomato;
 }
 
-#home,
-#about {
+#home,#about {
   display: flex;
   align-items: center;
   justify-content: center;
